@@ -1,54 +1,86 @@
 # MOTIONIZE
+### Introducing ARTIVIDO
 
-### Reimagining the creative process with AI.
+**Where Artificial Intelligence Meets Visual Imagination.**
 
-Motionize is an early-stage AI-powered creative workspace concept exploring how intelligent tools can make digital content creation more accessible, intuitive and efficient.
+Motionize is an independent software development project focused on exploring the intersection of artificial intelligence and digital creativity.
 
-The vision is to bring creative workflows into one streamlined environment while keeping the experience simple and user-focused.
-
----
-
-## ✦ The Vision
-
-Creative possibilities should not be limited by technical complexity.
-
-Motionize aims to explore a more intuitive approach to digital creativity, bringing together AI-assisted creative workflows in a unified environment.
-
-## ✦ What We're Exploring
-
-- AI-assisted image creation
-- AI-powered video creation workflows
-- A unified creative workspace
-- Simplified user experience
-- Intelligent creative tools
-- An evolving ecosystem of creative possibilities
-
-*These represent the project's direction and areas of exploration, not a claim that every capability is currently available.*
-
-## ✦ Project Status
-
-**Early Development / Concept Showcase**
-
-Motionize is actively evolving. Its underlying implementation, integrations and technical development remain private.
-
-This repository serves as a public introduction to the project's vision and direction.
-
-## ✦ Technology
-
-The project explores modern web technologies and AI-powered creative systems.
-
-Further implementation details are intentionally not disclosed.
-
-## ✦ Ownership
-
-Motionize is an independently developed project.
-
-© 2026 Motionize. All rights reserved.
-
-The name, branding, original concepts and materials presented in this repository are not offered for unrestricted reproduction or commercial reuse.
+Its flagship application, **Artivido**, is an AI-powered visual creation and manipulation platform designed to consolidate generative media capabilities and intelligent editing functionalities within a unified creative environment.
 
 ---
 
-**More to come.**
+## ✦ Introducing Artivido
 
-*Create beyond limitations. Imagine with Motionize.*
+Artivido aims to redefine the conventional creative workflow by bringing AI-driven content generation, visual transformation and intelligent media manipulation into a cohesive application.
+
+From synthesising original imagery to transforming existing visual assets, Artivido explores the creative possibilities emerging from generative artificial intelligence.
+
+### Core Creative Domains
+
+| Domain | Description |
+|---|---|
+| Generative Imagery | AI-driven synthesis of original visual content. |
+| Video Generation | Creation of dynamic visual sequences through generative technologies. |
+| Image Manipulation | Intelligent modification and enhancement of existing imagery. |
+| Video Manipulation | AI-assisted transformation and refinement of video content. |
+| Visual Transformation | Reinterpretation of digital media through generative capabilities. |
+
+---
+
+## ✦ Project Philosophy
+
+Motionize approaches AI-driven creativity through three fundamental principles:
+
+- **Convergence** — Integrating diverse creative functionalities within a unified environment.
+- **Accessibility** — Making sophisticated generative capabilities more approachable.
+- **Innovation** — Exploring emerging possibilities in intelligent visual content production.
+
+---
+
+## ✦ Development Status
+
+**Status:** Under Active Development
+
+Artivido is currently evolving through iterative development and technological exploration.
+
+This repository serves as a public-facing project showcase, documenting its vision, intended capabilities and development trajectory.
+
+Proprietary source code, internal implementation details, architectural specifications and private integrations are intentionally excluded.
+
+---
+
+## ✦ Repository Structure
+
+```text
+Motionize/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── vision.md
+│   ├── features.md
+│   ├── roadmap.md
+│   └── technology.md
+│
+├── assets/
+│
+└── preview/
+```
+
+---
+
+## ✦ Ownership & Intellectual Property
+
+Motionize and Artivido are independently developed project identities.
+
+The original branding, documentation and proprietary project materials remain the intellectual property of their respective owner.
+
+No licence for unrestricted reproduction, redistribution or commercial exploitation is granted through this repository.
+
+---
+
+### MOTIONIZE × ARTIVIDO
+
+*Create beyond imagination. Transform beyond limitations.*
